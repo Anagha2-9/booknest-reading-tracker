@@ -20,6 +20,23 @@ The project uses **HTML, CSS, JavaScript, and LocalStorage** to provide an inter
 - 📱 Responsive design for desktop, tablet, and mobile
 - 🚫 User-friendly empty states
 - 🎨 Clean and modern interface
+## 📸 Screenshots
+
+### 🏠 Home
+
+![BookNest Home](screenshots/Home.png)
+
+### 📚 Book Discovery & Search
+
+![Book Discovery and Search](screenshots/book-search.png)
+
+### 📖 My Reading
+
+![My Reading](screenshots/my-reading.png)
+
+### 📱 Responsive Mobile Design
+
+![Mobile Responsive Design](screenshots/mobile.png)
 
 ## 🛠️ Technologies Used
 
