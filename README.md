@@ -58,5 +58,11 @@ BookNest/
 ├── README.md
 ├── .gitignore
 │
-└── assets/
-    └── books/
+├── assets/
+│   └── books/
+│
+└── screenshots/
+    ├── Home.png
+    ├── book-search.png
+    ├── my-reading.png
+    └── mobile.png
